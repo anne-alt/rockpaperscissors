@@ -1,0 +1,18 @@
+* {
+    background-color: grey;
+    text-align: center;
+}
+
+header {
+    border-bottom: 1px solid black;
+}
+
+.scoremessage {
+    font-size: larger;
+}
+
+button {
+    padding: 3%;
+}
+
+
